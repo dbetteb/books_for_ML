@@ -27,7 +27,7 @@ Hardcover available [here](https://www.amazon.fr/Pattern-Recognition-Machine-Lea
 
 ### Introduction to Statistical Learning (with Application in R) by G. James, D. Witten, T. Hastie and R. Tibshirani
 
-<img src="covers/isl.jpg" width="80">
+<img src="covers/isl.jpg" width="160">
 
 
 
