@@ -59,7 +59,7 @@ Hardcover available [here](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-
 ### Python Data Structures and Algorithms: Improve application performance with graphs, stacks, and queues
 
 
-![](covers/pythondata.jpg)
+![](covers/pythondataz.jpg)
 
 
 Hardcover available [here](https://www.amazon.com/Python-Data-Structures-Algorithms-application/dp/1786467356)
