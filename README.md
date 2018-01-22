@@ -27,7 +27,7 @@ Hardcover available [here](https://www.amazon.fr/Pattern-Recognition-Machine-Lea
 
 ### Introduction to Statistical Learning (with Application in R) by G. James, D. Witten, T. Hastie and R. Tibshirani
 
-![](covers/isl.jpg | width=100)
+![](covers/isl.jpg  = 100x)
 
 Available [here](http://www-bcf.usc.edu/~gareth/ISL/) for free (pdf version).
 
@@ -35,7 +35,7 @@ Hardcover available [here](https://www.amazon.com/Introduction-Statistical-Learn
 
 ### Machine Learning : A probabilistic perspective by Kevin Murphy
 
-![](covers/prob.jpg)
+![](covers/pro.webp)
 
 Some excerpts available [here](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
@@ -52,3 +52,12 @@ Hardcover available [here](https://www.amazon.com/Machine-Learning-Probabilistic
 
  
 Hardcover available [here](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20)
+
+
+### Python Data Structures and Algorithms: Improve application performance with graphs, stacks, and queues
+
+
+![](covers/pythondata.jpg)
+
+
+Hardcover available [here](https://www.amazon.com/Python-Data-Structures-Algorithms-application/dp/1786467356)
